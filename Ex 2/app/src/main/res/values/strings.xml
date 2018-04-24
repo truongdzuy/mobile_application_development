@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Application</string>
+    <string name="currency_prompts">Choose Currency</string>
+    <string-array name="currency_arrays">
+        <item>VND->USD</item>
+        <item>USD->VND</item>
+        <item>VND->JPY</item>
+        <item>JPY->VND</item>
+</string-array>
+</resources>
